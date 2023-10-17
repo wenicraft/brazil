@@ -1,0 +1,42 @@
+
+
+A consulta ao 'dinheiro esquecido' em bancos pelo site valoresareceber.bcb.gov.br do Banco Central (BC) volta a funcionar nesta terça-feira (28) após quase um ano de paralisação. A partir de hoje, é possível fazer a consulta para descobrir se existe algum dinheiro a receber em alguma instituição financeira (veja todos os casos abaixo).
+
+Leia também:
+- Receita divulga regras para o Imposto de Renda em 2023; veja quem deve declarar e prazos
+- Imposto de Renda 2023: veja como fazer a declaração pré-preenchida
+
+Caso tenha algo a receber, o cidadão vai poder solicitar a devolução do dinheiro a partir de 7 de março. A segunda fase terá cerca de R$ 6 bilhões a serem devolvidos para 38 milhões de pessoas e 2 milhões de empresas - mesmo para aqueles que tenham resgatado algo na primeira fase em março e abril de 2022, na chamada primeira fase.
+
+A paralisação dos servidores do banco em 2022 prejudicou o cronograma de desenvolvimento das melhorias do Sistema de Valores a Receber (SVR). Neste ano, o SVR tem novidades importantes como impressão de telas, sala de espera virtual e consulta de valores de pessoa falecida.
+
+Neste retorno, o BC fez as seguintes mudanças para os usuários:
+
+    Inclusão de todos os tipos de valores previstos na norma do SVR, ampliando a possibilidade e o montante a receber.
+    Compartilhamento e impressão das telas e protocolos de solicitação do SVR, inclusive pelo WhatsApp, facilitando o acesso e guarda das informações do sistema.
+    Sala de espera virtual para manter o SVR aberto por prazo indeterminado, com acesso sem agendamento.
+    Consulta a valores de pessoa falecida, com acesso para herdeiro(a), testamentário(a), inventariante ou representante legal, informando os dados de contato da instituição responsável pelo valor e a faixa de valor.
+    Mais transparência para quem tem conta conjunta. Se um dos titulares solicitar o valor via SVR, o outro, ao entrar no sistema, conseguirá ver as informações da solicitação: valor, data e CPF de quem solicitou.
+
+Vale destacar que todas as modificações foram realizadas prezando a segurança, facilidade de uso e conforto das pessoas, principalmente para os usuários de celular.
+
+Atualmente, no SVR estão disponíveis aproximadamente R$ 6 bilhões de valores a receber para 38 milhões de CPFs e 2 milhões de CNPJs, referentes a:
+
+    contas corrente ou poupança encerradas com saldo disponível;
+    cotas de capital e rateio de sobras líquidas de ex-participantes de cooperativas de crédito;
+    recursos não procurados de grupos de consórcio encerrados;
+    tarifas cobradas indevidamente;
+    parcelas ou despesas de operações de crédito cobradas;
+
+Nesta nova fase, também foram incluídas as seguintes consultas:
+
+    contas de pagamento pré ou pós-paga encerradas com saldo disponível;
+    contas de registro mantidas por corretoras e distribuidoras encerradas com saldo disponível; e
+    outros recursos disponíveis nas instituições para devolução.
+
+É importante ficar atento aos golpes:
+
+    todos os serviços do Valores a Receber são totalmente gratuitos;
+    o Banco Central não envia links nem entra em contato para tratar sobre valores a receber ou para confirmar dados pessoais;
+    somente a instituição que aparece no Sistema de Valores a Receber é que pode contatar o cidadão;
+    nunca forneça senhas, ninguém está autorizado a pedir sua senha.​​​
