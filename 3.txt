@@ -1,0 +1,10 @@
+Veja passo-a-passo da consulta e sacar dinheiro esquecido em bancos
+
+    Acesse o site valoresareceber.bcb.gov.br;
+    Use seu CPF e data de nascimento ou CNPJ e data de abertura da empresa para consultar se você tem valores a receber;
+    Caso positivo, guarde bem a data que o sistema vai lhe informar
+    Se você ainda não tiver login Gov.br, faça seu cadastro gratuito no site ou pelo App Gov.br (Google Play e App Store). Você vai precisar de um cadastro Gov.br nível prata ou ouro para solicitar os recursos. Não será possível acessar o sistema com login Registrato;
+    Volte ao site valoresareceber.bcb.gov.br na data informada e use seu login Gov.br para acessar o sistema, saber qual o valor disponível e solicitar sua transferência,
+    Se você perder sua data de resgate, acesse novamente o site valoresareceber.bcb.gov.br em outro dia e o sistema vai informar uma nova data para retorno.
+
+Não se preocupe com seu direito sobre os recursos a devolver. Eles são seus e continuarão guardados pelas instituições financeiras o tempo que for necessário, esperando até que você solicite a devolução.
