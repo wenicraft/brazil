@@ -1,0 +1,7 @@
+O que é Valores a Receber e o sistema SVR?
+
+O Valores a Receber é um serviço do Banco Central (BC) em que a pessoa pode consultar se tem dinheiro esquecido em algum banco, consórcio ou em alguma instituição financeira. Caso ela tenha, o dinheiro pode ser resgatado. 
+
+Por meio do Sistema de Valores a Receber (SVR), do Banco Central, o saque do dinheiro esquecido em bancos pode ser realizado. 
+
+Pelo site valoresareceber.bcb.gov.br a pessoa pode realizar a consulta, saber se tem valores a receber e fazer o resgate do dinheiro.
