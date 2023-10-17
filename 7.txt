@@ -1,0 +1,15 @@
+Como consultar valores a receber pelo CPF ou CNPJ
+
+Tanto pessoas físicas (CPF), como pessoas jurídicas (CNPJ) podem consultar se possuem valores a receber. Acompanhe abaixo o passo a passo. 
+
+1- Acesse o site valores a receber.bcb.gov.br. Clique em “Consulte valores a receber”.
+
+2- Use seu CPF e data de nascimento ou CNPJ e data de abertura da empresa para consultar se você tem valores a receber;
+
+3- Caso seja informado que há valores, anote a data que o sistema irá informar; 
+
+4- Você precisará ter uma conta Gov.br. Caso ainda não tenha, baixe o aplicativo e realize o cadastro. Para solicitar o valor, o nível da conta deverá ser prata ou ouro. 
+
+5- Volte no site valoresareceber.bcb.gov.br na data informada e use seu login Gov.br para acessar o sistema, saber qual o valor disponível e solicitar sua transferência.
+
+6- Caso você não acesse o sistema na sua data de resgate, você deverá acessá-lo novamente em outro dia. O sistema irá informar uma nova data para resgate.
